@@ -1,0 +1,2 @@
+module inf371 {
+}
